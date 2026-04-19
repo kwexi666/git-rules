@@ -1,0 +1,39 @@
+[33mf1b6c2d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mrebase-feature[m[33m)[m HEAD@{0}: merge rebase-feature: Fast-forward
+[33mfbc2036[m HEAD@{1}: checkout: moving from rebase-feature to master
+[33mf1b6c2d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mrebase-feature[m[33m)[m HEAD@{2}: rebase (finish): returning to refs/heads/rebase-feature
+[33mf1b6c2d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mrebase-feature[m[33m)[m HEAD@{3}: rebase (continue): :wqChange branch.md
+[33m464952c[m HEAD@{4}: rebase (continue): Add rebase.md
+[33mfbc2036[m HEAD@{5}: rebase (start): checkout master
+[33m39ee784[m HEAD@{6}: checkout: moving from master to rebase-feature
+[33mfbc2036[m HEAD@{7}: commit: Add reflog stub to branch.md
+[33m68daacf[m[33m ([m[1;32mmerge-feature[m[33m)[m HEAD@{8}: checkout: moving from rebase-feature to master
+[33m39ee784[m HEAD@{9}: commit: Change branch.md
+[33me0e48e8[m HEAD@{10}: commit: Add rebase.md
+[33m68daacf[m[33m ([m[1;32mmerge-feature[m[33m)[m HEAD@{11}: checkout: moving from master to rebase-feature
+[33m68daacf[m[33m ([m[1;32mmerge-feature[m[33m)[m HEAD@{12}: merge merge-feature: Fast-forward
+[33mebf203c[m HEAD@{13}: checkout: moving from merge-feature to master
+[33m68daacf[m[33m ([m[1;32mmerge-feature[m[33m)[m HEAD@{14}: commit: Add merge.md
+[33mebf203c[m HEAD@{15}: checkout: moving from master to merge-feature
+[33mebf203c[m HEAD@{16}: commit (merge): Merge branch 'branch-feature'
+[33m6ec3c7d[m HEAD@{17}: commit (merge): Merge branch 'bullet-feature'
+[33ma79ef5d[m HEAD@{18}: commit: New commands for commit.md
+[33m738eeac[m[33m ([m[1;33mtag: [m[1;33mv0.1[m[33m)[m HEAD@{19}: checkout: moving from master to master
+[33m738eeac[m[33m ([m[1;33mtag: [m[1;33mv0.1[m[33m)[m HEAD@{20}: checkout: moving from master to master
+[33m738eeac[m[33m ([m[1;33mtag: [m[1;33mv0.1[m[33m)[m HEAD@{21}: reset: moving to HEAD~1
+[33m11ac765[m[33m ([m[1;32mbullet-feature[m[33m)[m HEAD@{22}: merge bullet-feature: Fast-forward
+[33m738eeac[m[33m ([m[1;33mtag: [m[1;33mv0.1[m[33m)[m HEAD@{23}: checkout: moving from master to master
+[33m738eeac[m[33m ([m[1;33mtag: [m[1;33mv0.1[m[33m)[m HEAD@{24}: checkout: moving from bullet-feature to master
+[33m11ac765[m[33m ([m[1;32mbullet-feature[m[33m)[m HEAD@{25}: commit: Replace with bullets
+[33m738eeac[m[33m ([m[1;33mtag: [m[1;33mv0.1[m[33m)[m HEAD@{26}: checkout: moving from master to bullet-feature
+[33m738eeac[m[33m ([m[1;33mtag: [m[1;33mv0.1[m[33m)[m HEAD@{27}: reset: moving to HEAD~1
+[33m0cd918b[m[33m ([m[1;32mbranch-feature[m[33m)[m HEAD@{28}: commit: Add branch.md
+[33m738eeac[m[33m ([m[1;33mtag: [m[1;33mv0.1[m[33m)[m HEAD@{29}: checkout: moving from bullet-feature to master
+[33m738eeac[m[33m ([m[1;33mtag: [m[1;33mv0.1[m[33m)[m HEAD@{30}: checkout: moving from 738eeac28e5b799930b6e672d1909cf1e44d59da to bullet-feature
+[33m738eeac[m[33m ([m[1;33mtag: [m[1;33mv0.1[m[33m)[m HEAD@{31}: reset: moving to HEAD~1
+[33me5ccea2[m HEAD@{32}: commit: Add branch.md
+[33m738eeac[m[33m ([m[1;33mtag: [m[1;33mv0.1[m[33m)[m HEAD@{33}: checkout: moving from master to v0.1
+[33m738eeac[m[33m ([m[1;33mtag: [m[1;33mv0.1[m[33m)[m HEAD@{34}: checkout: moving from 738eeac28e5b799930b6e672d1909cf1e44d59da to master
+[33m738eeac[m[33m ([m[1;33mtag: [m[1;33mv0.1[m[33m)[m HEAD@{35}: checkout: moving from master to v0.1
+[33m738eeac[m[33m ([m[1;33mtag: [m[1;33mv0.1[m[33m)[m HEAD@{36}: commit: Add commit.md header
+[33m3672c33[m HEAD@{37}: commit: Add init.md
+[33m24be26a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{38}: clone: from https://github.com/kwexi666/git-rules
